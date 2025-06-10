@@ -11,10 +11,6 @@ A simple Machine Learning project with a user-friendly Tkinter GUI that predicts
 - 📦 Lightweight, no external UI dependencies
 
 
-🚀 Demo
-
-![House Price Predictor UI Screenshot](screenshot.png) <!-- Add an actual screenshot if available -->
-
 
 📊 Input Features
 
