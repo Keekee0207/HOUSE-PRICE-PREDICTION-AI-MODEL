@@ -12,13 +12,13 @@ A simple Machine Learning project with a user-friendly Tkinter GUI that predicts
 
   Technologies Used
 
-Component	                         Description
-
-Python	                       Programming language used for all development
-Scikit-learn	                 For model training using Linear Regression
-NumPy   	                     For numerical data processing
-Tkinter (GUI)	                Python library to build the interactive UI
-California Dataset          	 In-built dataset from Scikit-learn
+Component	              |           Description
+---------------------------------------------------------------------
+Python	                 |      Programming language used for all development
+Scikit-learn	           |      For model training using Linear Regression
+NumPy   	               |      For numerical data processing
+Tkinter (GUI)	          |      Python library to build the interactive UI
+California Dataset      |   	 In-built dataset from Scikit-learn
 
 
 
